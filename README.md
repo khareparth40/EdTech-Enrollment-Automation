@@ -55,5 +55,4 @@ Potential tools to explore:
 
 ---
 
-Let me know when you're ready to move on to **Phase 2: Org Setup & Configuration**—I can format that next for your README too.
  
